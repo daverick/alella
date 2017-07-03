@@ -1,0 +1,6 @@
+indexes: 
+  - kind: Art
+    properties: 
+    - name: year
+    - name: artist
+    - name: Title
